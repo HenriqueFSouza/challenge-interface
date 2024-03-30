@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { Montserrat } from 'next/font/google'
 import './globals.css'
 import StyledComponentsRegistry from 'lib/registry'
-import { Wrapper } from './(acesso)/styles'
+import { Wrapper } from '../app/(acesso)/styles'
 import { UserProvider } from '@/contexts/user-context'
 
 

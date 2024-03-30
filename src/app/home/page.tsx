@@ -1,7 +1,7 @@
 'use client'
 
 import { useUser } from "@/contexts/user-context"
-import { Title } from "../(acesso)/styles"
+import { Title } from "../styles"
 
 export default function Home() {
   const { user } = useUser()

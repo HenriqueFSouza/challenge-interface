@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Container, Wrapper } from './styles'
+import { Container } from '../(acesso)/styles'
 
 export default function HomeLayout({
   children,

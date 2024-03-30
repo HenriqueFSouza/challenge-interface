@@ -1,6 +1,6 @@
 'use client'
 import { z } from 'zod'
-import { Input, Label, Form, Button, Box, Ancor, Error } from '../styles'
+import { Input, Label, Form, Button, Box, Ancor, Error } from '../(acesso)/styles'
 import { useForm } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useCallback, useState } from 'react'
